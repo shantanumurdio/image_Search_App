@@ -1,4 +1,4 @@
-# Image Search App [link]()
+# Image Search App [link](https://shantanumurdio.github.io/image_Search_App/)
 
 A simple web application for searching and displaying images using the Unsplash API.
 
@@ -8,7 +8,7 @@ A simple web application for searching and displaying images using the Unsplash 
 
 ## Demo
 
-You can see a live demo of the Image Search App [here](#).
+You can see a live demo of the Image Search App [here](https://shantanumurdio.github.io/image_Search_App/).
 
 ## Features
 
